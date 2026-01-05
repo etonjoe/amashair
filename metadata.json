@@ -1,0 +1,7 @@
+{
+  "name": "AMAS HAIR",
+  "description": "Where style meets confidence. Professional hair braiding, wig installations, and premium extensions in SR1.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
